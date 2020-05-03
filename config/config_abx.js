@@ -8,7 +8,7 @@ var TestConfig = {
   "EnableOnlineSubmission": true,
   "BeaqleServiceURL": "/web_service/beaqleJS_Service.php",
   "SupervisorContact": "",
-  "AudioRoot": "/audio",
+  "AudioRoot": "",
   "Testsets": [
     //    
     {
