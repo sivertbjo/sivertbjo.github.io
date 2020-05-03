@@ -1,6 +1,6 @@
 // configure the test here
 var TestConfig = {
-  "TestName": "ABX Demo Test",
+  "TestName": "Sivert Bjørnerås - ABX Test",
   "LoopByDefault": true,
   "ShowFileIDs": false,
   "ShowResults": false,
@@ -12,20 +12,20 @@ var TestConfig = {
   "Testsets": [
     //    
     {
-      "Name": "Schubert",
+      "Name": "Domkirken",
       "TestID": "id1",
       "Files": {
-        "A": "audio/schubert_ref.wav",
-        "B": "audio/schubert_2.wav",
+        "A": "CATHEDRAL REAL.wav",
+        "B": "CATHEDRAL FAKE.wav",
       }
     },
     //    
     {
-      "Name": "Castanets",
+      "Name": "Sofienbergkirken",
       "TestID": "id2",
       "Files": {
-        "A": "audio/castanets_ref.wav",
-        "B": "audio/castanets_2.wav",
+        "A": "audio/SOFIENBERG FAKE.wav",
+        "B": "audio/SOFIENBERG REAL.wav",
       }
     },
   ]
