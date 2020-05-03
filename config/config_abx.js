@@ -6,7 +6,7 @@ var TestConfig = {
   "ShowResults": false,
   "EnableABLoop": true,
   "EnableOnlineSubmission": true,
-  "BeaqleServiceURL": "/web_service/beaqleJS_Service.php",
+  "BeaqleServiceURL": "http://www.sivertbjorneras.epizy.com/beaqleJS_Service.php",
   "SupervisorContact": "",
   "AudioRoot": "",
   "Testsets": [

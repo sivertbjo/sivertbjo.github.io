@@ -585,7 +585,7 @@ $.extend({ alert: function (message, title) {
         	this.runTest(this.TestState.TestSequence[this.TestState.CurrentTest]);
         } else {
             // if previous test was last one, ask before loading final page and then exit test
-            if (confirm('This was the last test. Do you want to finish?')) {
+            if (confirm('Dette var den siste testen. Vil du fullføre?')) {
             
                 $('#TableContainer').hide();
                 $('#PlayerControls').hide();
