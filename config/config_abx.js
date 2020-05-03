@@ -15,8 +15,8 @@ var TestConfig = {
       "Name": "Domkirken",
       "TestID": "id1",
       "Files": {
-        "A": "CATHEDRAL_REAL.wav",
-        "B": "CATHEDRAL_FAKE.wav",
+        "A": "audio/CATHEDRAL_REAL.wav",
+        "B": "audio/CATHEDRAL_FAKE.wav",
       }
     },
     //    
